@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+#🎙️ Natty or fake natty?
+Descobrindo IAs Gerativas em 3 Minutos
 
-## 🚀 Introdução
+##📒 Descrição
+Este projeto explora o conceito “Natty or Fake Natty?” aplicado ao universo das Inteligências Artificiais Gerativas. Por meio de um podcast curto, de aproximadamente 3 minutos, o ouvinte é convidado a refletir: essa voz, esse roteiro e essa narrativa são naturais… ou gerados por IA?
+O episódio apresenta IAs gerativas de forma acessível, enquanto desafia a percepção do que é real e do que é artificial na mídia digital.
 
-> Woooow! Look at this 👀
+##🤖 Tecnologias Utilizadas
+🧠 ChatGPT – criação e revisão do roteiro do podcast
+🎙️ ElevenLabs – geração de voz sintética realista (fake natty?)
+✂️ Descript – edição e montagem final do áudio
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+##🧐 Processo de criação
+O roteiro foi desenvolvido com o apoio do ChatGPT, buscando uma linguagem natural e fluida. Em seguida, a narração foi criada com o ElevenLabs, explorando o realismo da voz sintética para provocar o questionamento central do projeto: soa humano ou é IA?
+Por fim, o Descript foi utilizado para editar o áudio e garantir um resultado profissional e envolvente.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+##🚀 Resultados
+🎧 Podcast curto, informativo e imersivo
+🤖 Conteúdo gerado integralmente com apoio de IAs Generativas
+🧠 Experiência que desafia o ouvinte a identificar o que é natty ou fake natty
+🌐 Projeto publicado e compartilhado com a hashtag #LabDIONattyOrNot
 
-### Objetivos
+##🔗 Link para o podcast:
+LINK PARA O PODCAST AQUI
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+##💭 Reflexão
+Crie um podcast onde a voz e o roteiro são gerados por IA mostrados como a linha entre o natural e o artificial é cada vez mais sutil. O desafio não foi apenas técnico, mas conceitual: quando a IA é humana, ainda conseguimos chamar-la de fake?
