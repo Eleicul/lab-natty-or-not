@@ -21,7 +21,7 @@ Por fim, o Descript foi utilizado para editar o áudio e garantir um resultado p
 🌐 Projeto publicado e compartilhado com a hashtag #LabDIONattyOrNot
 
 ##🔗 Link para o podcast:
-[🎧Ouvir o podcast](Eleicul/ Natural ou não-natural---Podcast)
+[🎧Ouvir o podcast](Natural ou falso natural - Podcast - DIO.mp3)
 
 ##💭 Reflexão
 Crie um podcast onde a voz e o roteiro são gerados por IA mostrados como a linha entre o natural e o artificial é cada vez mais sutil. O desafio não foi apenas técnico, mas conceitual: quando a IA é humana, ainda conseguimos chamar-la de fake?
